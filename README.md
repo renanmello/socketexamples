@@ -99,12 +99,13 @@ Rodolfo Cruz}
 
 E-mail: mellorenan19@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/renan-mello-202ba5211
+LinkedIn: [Renan Mello](https://www.linkedin.com/in/renan-mello-202ba5211)
 
 📚 Referências 
 
-    Documentação oficial do módulo socket  do Python
-    Livro: Computer Networking: A Top-Down Approach  – James F. Kurose e Keith W. Ross
+- Documentação oficial do módulo [socket](https://docs.python.org/3/library/socket.html)  do Python
+
+- Livro: Computer Networking: A Top-Down Approach  – James F. Kurose e Keith W. Ross
      
 
 🙌 Agradecimentos 
